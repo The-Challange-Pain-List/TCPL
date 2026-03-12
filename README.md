@@ -1,8 +1,8 @@
-# Welcome to the Geometry Dash Shitty List template!
+# Welcome to The Challange Pain List!
 
-# FAQ
+-------------------------------
 
----
+### TEMPLATE TXT - IGNORE!
 
 ### Website FAQ
 
